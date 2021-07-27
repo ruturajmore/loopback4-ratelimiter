@@ -1,5 +1,5 @@
 {
-  "name": "loopback4-ratelimiter",
+  "name": "@ruturajmore/loopback4-ratelimiter",
   "version": "2.2.0",
   "description": "A rate limiting extension for loopback-next APIs",
   "keywords": [
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sourcefuse/loopback4-ratelimiter"
+    "url": "https://github.com/ruturajmore/loopback4-ratelimiter"
   },
   "author": "",
   "license": "MIT",
