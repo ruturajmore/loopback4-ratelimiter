@@ -1,6 +1,6 @@
 {
   "name": "@ruturaj-roxiler/loopback4-ratelimiter",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "A rate limiting extension for loopback-next APIs",
   "keywords": [
     "loopback-extension",
