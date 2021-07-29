@@ -6,9 +6,9 @@ First off, thank you for considering contributing to the project. It's people li
 
 ### Where do I go from here ?
 
-If you've noticed a bug or have a question, [search the issue tracker](https://github.com/sourcefuse/loopback4-ratelimiter/issues) to see if
+If you've noticed a bug or have a question, [search the issue tracker](https://github.com/ruturajmore/loopback4-ratelimiter/issues) to see if
 someone else in the community has already created a ticket. If not, go ahead and
-[make one](https://github.com/sourcefuse/loopback4-ratelimiter/issues/new/choose)!
+[make one](https://github.com/ruturajmore/loopback4-ratelimiter/issues/new/choose)!
 
 ### Fork & create a branch
 
@@ -27,7 +27,7 @@ At this point, you should switch back to your master branch and make sure it's
 up to date with loopback4-ratelimiter's master branch:
 
 ```sh
-git remote add upstream git@github.com:sourcefuse/loopback4-ratelimiter.git
+git remote add upstream git@github.com:ruturajmore/loopback4-ratelimiter.git
 git checkout master
 git pull upstream master
 ```

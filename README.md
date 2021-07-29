@@ -162,4 +162,4 @@ async userDetails(
 
 ## License
 
-[MIT](https://github.com/sourcefuse/loopback4-ratelimiter/blob/master/LICENSE)
+[MIT](https://github.com/ruturajmore/loopback4-ratelimiter/blob/master/LICENSE)
